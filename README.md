@@ -1,4 +1,4 @@
-# GAM_RashomonSet_BreastCancerData
+
 # GAMs Rashomon Set — Breast Cancer Wisconsin (7 Features)
 
 > Exploring the **Rashomon Set of Generalized Additive Models (GAMs)** on the Breast Cancer Wisconsin dataset using variable importance ranges, monotonicity constraints, user-preferred shape functions, and abnormal pattern detection.
